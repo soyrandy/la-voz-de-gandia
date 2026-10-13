@@ -18,6 +18,7 @@ Descubre las funcionalidades clave que hacen de **La Voz de Gandia** una herrami
 3. **Sistema de Moderación y Control:**
    - Filtros inteligentes para garantizar que las denuncias sean legítimas y respetuosas.
 
+
 ```bash
 # Formato de la petición generada por la app al enviar la incidencia
 POST /api/v1/incidencias/crear
