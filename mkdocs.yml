@@ -27,6 +27,7 @@ theme:
     - navigation.right
     - navigation.tracking
     - toc.integrate
+    - content.code.copy
 
 markdown_extensions:
   - pymdownx.highlight:
